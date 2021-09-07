@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "495706625503",
+    "project_id": "contadorcovid-d244c",
+    "storage_bucket": "contadorcovid-d244c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495706625503:android:e48704feccb9727190606a",
+        "android_client_info": {
+          "package_name": "prueba.app.contadorcovid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495706625503-ak53nj1bklsq9ccpfvcvpb2hm605f0td.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo_S9UkwgutZj6-8Iyaed9TiZrdB1DNwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495706625503-ak53nj1bklsq9ccpfvcvpb2hm605f0td.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
